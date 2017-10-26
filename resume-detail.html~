@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Post a job position or create your online resume by TheJobs!">
+    <meta name="keywords" content="">
+
+    <title>Muhammad Ilyas</title>
+
+    <!-- Styles -->
+    <link href="assets/css/app.min.css" rel="stylesheet">
+    <link href="assets/css/custom.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Oswald:100,300,400,500,600,800%7COpen+Sans:300,400,500,600,700,800%7CMontserrat:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="icon" href="assets/img/favicon.ico">
+  </head>
+
+  <body class="nav-on-header smart-nav">
+
+    <!-- Navigation bar -->
+    <nav class="navbar">
+      <div class="container">
+
+        <!-- Logo -->
+        <div class="pull-left">
+          <a class="navbar-toggle" href="#" data-toggle="offcanvas"><i class="ti-menu"></i></a>
+
+          <div class="logo-wrapper">
+            <!---<a class="logo" href="index.html"><img src="assets/img/logo.png" alt="logo"></a>
+            <a class="logo-alt" href="index.html"><img src="assets/img/logo-alt.png" alt="logo-alt"></a>--->
+          </div>
+
+        </div>
+        <!-- END Logo -->
+
+        <!-- User account
+        <div class="pull-right user-login">
+          <a class="btn btn-sm btn-primary" href="user-login.html">Login</a> or <a href="user-register.html">register</a>
+        </div>
+        <!-- END User account -->
+
+        <!-- Navigation menu -->
+        <ul class="nav-menu">
+          <li>
+            <a href="index.html">Home</a>
+            <ul>
+              <li><a href="index.html">Version 1</a></li>
+              <li><a href="index-2.html">Version 2</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">Position</a>
+            <ul>
+              <li><a href="job-list-1.html">Browse jobs - 1</a></li>
+              <li><a href="job-list-2.html">Browse jobs - 2</a></li>
+              <li><a href="job-list-3.html">Browse jobs - 3</a></li>
+              <li><a href="job-detail.html">Job detail</a></li>
+              <li><a href="job-apply.html">Apply for job</a></li>
+              <li><a href="job-add.html">Post a job</a></li>
+              <li><a href="job-manage.html">Manage jobs</a></li>
+              <li><a href="job-candidates.html">Candidates</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="active" href="#">Resume</a>
+            <ul>
+              <li><a href="resume-list.html">Browse resumes</a></li>
+              <li><a class="active" href="resume-detail.html">Resume detail</a></li>
+              <li><a href="resume-add.html">Create a resume</a></li>
+              <li><a href="resume-manage.html">Manage resumes</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">Company</a>
+            <ul>
+              <li><a href="company-list.html">Browse companies</a></li>
+              <li><a href="company-detail.html">Company detail</a></li>
+              <li><a href="company-add.html">Create a company</a></li>
+              <li><a href="company-manage.html">Manage companies</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">Pages</a>
+            <ul>
+              <li><a href="page-blog.html">Blog</a></li>
+              <li><a href="page-post.html">Blog-post</a></li>
+              <li><a href="page-about.html">About</a></li>
+              <li><a href="page-contact.html">Contact</a></li>
+              <li><a href="page-faq.html">FAQ</a></li>
+              <li><a href="page-pricing.html">Pricing</a></li>
+              <li><a href="page-typography.html">Typography</a></li>
+              <li><a href="page-ui-elements.html">UI elements</a></li>
+            </ul>
+          </li>
+        </ul>
+        <!-- END Navigation menu -->
+
+      </div>
+    </nav>
+    <!-- END Navigation bar -->
+
+
+    <!-- Page header -->
+    <header class="page-header bg-img" style="background-image: url(assets/img/bg-banner2.jpg)">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-4 avatar">
+            <img src="assets/img/avatar.jpg" width="150px" height="150px" style="margine-top:200px" alt="Muhammad Ilyas">
+          </div>
+
+          <div class="col-xs-12 col-sm-8 header-detail">
+            <div class="hgroup">
+              <h1>Muhammad Ilyas</h1>
+              <h3>Front-end developer</h3>
+            </div>
+            <hr>
+            <p class="lead">I’m a fourth year undergraduate student currently studying at<a href="#"> DHA Suffa University</a> and majoring in computer science.
+<p class="lead">
+I am a curious soul who is on the quest of finding knowledge about computer science and machine learning. I am always up for learning more skills and spread over my knowledge.</p><p class="lead">
+ In my opinion deep learning has made enormous strides in giving machines the ability to intuit the physical world and will bring revolutionary change towards the perception of life. Passionate round the clock in Machine learning and Data science.
+I have experience in application development and human activity recognition.</p><p class="lead">
+I have experience in working large/small professional teams in my industry internships,I am quickly adaptable with the environment and technology.</p><p class="lead">
+
+Experienced in Python,Data Extraction/Cleaning/Analysis,PHP Laravel, SQL Database Design, C/C++, and Web Services.
+ 
+I am here to avail this opportunity by trying my best to get a job/internship to not only get hands on experience but also to make every desk and corridor my workplace, don’t hesitate to reach out if you think there’s an opportunity for collaboration. Would love to discuss.</p>
+
+            <ul class="details cols-2">
+              <!--<li>
+                <i class="fa fa-map-marker"></i>
+                <span>Mountain view, CA</span>
+              </li>-->
+
+              <li>
+                <i class="fa fa-globe"></i>
+                <a href="http://pakistanblogs.com">Pakistanblogs.com</a>
+              </li>
+
+              <!---<li>
+                <i class="fa fa-money"></i>
+                <span>$85 / hour</span>
+              </li>
+--->
+             <!--- <li>
+                <i class="fa fa-birthday-cake"></i>
+                <span>27 years-old</span>
+              </li>-->
+
+              <li>
+                <i class="fa fa-phone"></i>
+                <span>(+92) 343 2783698</span>
+              </li>
+
+              <li>
+                <i class="fa fa-envelope"></i>
+               <mail>m_ilyas@outlook.com</mail>
+              </li>
+            </ul>
+
+            <div class="tag-list">
+              <span>Python</span>
+              <span>Data Science</span>
+              <span>Machine Learning</span>
+              <span>PHP</span>
+              <span>API Development</span>
+              <span>HTML/CSS/JS</span>
+              <span>Wordpress</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="button-group">
+          <ul class="social-icons">
+            <li><a class="facebook" href="https://www.facebook.com/Muhammad.ilyasx"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+            <!--<li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
+		<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>-->
+            <li><a class="linkedin" href="https://www.linkedin.com/in/ilyasyousuf/"><i class="fa fa-linkedin"></i></a></li>
+           
+	    <li><a class="git" href="https://github.com/ilyasx"><i class="fa fa-github"></i></a></li>
+	<li><a class="stackoverflow" href="#"><i class="fa fa-stack-overflow"></i></a></li>
+          </ul>
+
+          <div class="action-buttons">
+            <a class="btn btn-gray" href="#">Download CV</a>
+            <a class="btn btn-success" data-toggle="modal" data-target="#modal-contact" href="#">Contact me</a>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- END Page header -->
+
+
+    <!-- Main container -->
+    <main>
+
+
+      <!-- Education -->
+      <section>
+        <div class="container">
+
+          <header class="section-header">
+            <span>Latest degrees</span>
+            <h2>Education</h2>
+          </header>
+          
+         <!--- <div class="row">
+            <div class="col-xs-12">
+              <div class="item-block">
+                <header>
+                  <img src="assets/img/logo-mit.png" alt="">
+                  <div class="hgroup">
+                    <h4>Master <small>Computer Science</small></h4>
+                    <h5>Massachusetts Institute of Technology</h5>
+                  </div>
+                  <h6 class="time">2012 - 2014</h6>
+                </header>
+                <div class="item-body">
+                  <p>The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. Founded in 1861 in response to the increasing industrialization of the United States, MIT adopted a European polytechnic university model and stressed laboratory instruction in applied science and engineering.</p>
+                </div>
+              </div>
+            </div>--->
+
+            <div class="col-xs-12">
+              <div class="item-block">
+                <header>
+                  <img src="assets/img/DHA_Suffa_University_Logo.jpg" alt="">
+                  <div class="hgroup">
+                    <h4>Bachelor <small>Computer Science</small></h4>
+                    <h5>DHA Suffa University, Karachi</h5>
+                  </div>
+                  <h6 class="time">2014 - Present</h6>
+                </header>
+                <div class="item-body">
+                  <p>DHA Suffa University (DSU), established in the year 2012, has systematically taken giant strides to become the institution of choice in Pakistan. The university offers undergraduate, graduate and doctoral programs in Engineering, Computer Sciences and Management Sciences.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+      <!-- END Education -->
+
+
+      <!-- Work Experience -->
+      <section class="bg-alt">
+        <div class="container">
+          <header class="section-header">
+            <span>Past / Present positions</span>
+            <h2>Work Experience</h2>
+          </header>
+          
+          <div class="row">
+
+            <!-- Work item -->
+            <div class="col-xs-12">
+              <div class="item-block">
+                <header>
+                  <img src="assets/img/aciano.jpg" alt="">
+                  <div class="hgroup">
+                    <h4>Aciano Technologies</h4>
+                    <h5>Intern</h5>
+                  </div>
+                  <h6 class="time">July 2017 - Present</h6>
+                </header>
+                <div class="item-body">
+                  <p>Responsibilities:</p>
+                  <ul>
+                    <li>Maintain the scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation.</li><li>
+Creating automated social analysis systems and constant tracking of its performance.</li>
+                  </ul>
+<b>Technologies:</b>
+<p>
+Python, PHP , Laravel, Machine Learning, Mysql and D3</p>
+                </div>
+              </div>
+            </div>
+            <!-- END Work item -->
+
+
+            <!-- Work item -->
+            <div class="col-xs-12">
+              <div class="item-block">
+                <header>
+                  <img src="assets/img/attribes.png" alt="Attribe Solution">
+                  <div class="hgroup">
+                    <h4>Attribes Solutions</h4>
+                    <h5>Intern</h5>
+                  </div>
+                  <h6 class="time">Jan 2016 - Feb 2016</h6>
+                </header>
+                <div class="item-body">
+                  <p>Responsibilities:</p>
+                  <ul>
+                    <li>Exploring the way to integrate R (powerful statistical computing software) into general purpose Programming language (Java, Python, and C++).</li>
+<li>Find out the way to use complex packages of R using general programming language.</li>
+                    <li>Some back-end development in collaboration with senior developer.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- END Work item -->
+
+
+            <!-- Work item -->
+            <div class="col-xs-12">
+              <div class="item-block">
+                <header>
+                  <img src="assets/img/medialab.png" alt="DSU MEDIA LAB">
+                  <div class="hgroup">
+                    <h4>DSU Media Lab</h4>
+                    <h5>Research Assistant</h5>
+                  </div>
+                  <h6 class="time">June 2015 - Aug 2015</h6>
+                </header>
+                <div class="item-body">
+		<p>DSU Media lab (formerly a part of Suffa innovation lab provide) a platform where researchers are provided an opportunity to create assets/resources for a better future. DSU Media Lab was initiated in January 2017, under the supervision of <a href="#"><b>Dr. Abdul Rauf Shams Malick</b></a>.
+The current on-going projects of DSU Media Lab are based on Data Science, Artificial Intelligence, Human Trajectory Mining etc. Doors of DSU Media Lab are open for anyone with bright ideas and dedication to turn them into reality.  </p>
+                  <p>Responsibilities:</p>
+                  <ul>
+                    <li>Identify the way to starting and ending of communities detection in Social Data.</li>
+                    <li>Design automated tools for communities detection in social network and real time data visualization.</li>
+                    
+
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- END Work item -->
+
+
+          </div>
+
+        </div>
+      </section>
+      <!-- END Work Experience -->
+	
+      <!-- Skills -->
+      <section>
+        <div class="container">
+          <header class="section-header">
+            <span>Expertise Areas</span>
+            <h2>Skills</h2>
+          </header>
+          
+          <br>
+          <ul class="skills cols-3">
+            <li>
+              <div>
+                <span class="skill-name">Python</span>
+                <span class="skill-value">70%</span>
+              </div>
+              <div class="progress">
+                <div class="progress-bar" style="width: 70%;"></div>
+              </div>
+            </li>
+
+            <li>
+              <div>
+                <span class="skill-name">PHP</span>
+                <span class="skill-value">70%</span>
+              </div>
+              <div class="progress">
+                <div class="progress-bar" style="width: 70%;"></div>
+              </div>
+            </li>
+
+            <li>
+              <div>
+                <span class="skill-name">Javascript</span>
+                <span class="skill-value">60%</span>
+              </div>
+              <div class="progress">
+                <div class="progress-bar" style="width: 60%;"></div>
+              </div>
+            </li>
+
+            <li>
+              <div>
+                <span class="skill-name">Data Extraction</span>
+                <span class="skill-value">60%</span>
+              </div>
+              <div class="progress">
+                <div class="progress-bar" style="width: 60%;"></div>
+              </div>
+            </li>
+
+            <li>
+              <div>
+                <span class="skill-name">API Development</span>
+                <span class="skill-value">60%</span>
+              </div>
+              <div class="progress">
+                <div class="progress-bar" style="width: 60%;"></div>
+              </div>
+            </li>
+
+            <li>
+              <div>
+                <span class="skill-name">Team work</span>
+                <span class="skill-value">90%</span>
+              </div>
+              <div class="progress">
+                <div class="progress-bar" style="width: 90%;"></div>
+              </div>
+            </li>
+          </ul>
+
+        </div>
+      </section>
+      <!-- END Skills -->
+
+
+    </main>
+    <!-- END Main container -->
+
+
+    <!-- Site footer -->
+    <footer class="site-footer">
+<!-- Top section -->
+      <!---
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <h6>About</h6>
+            <p class="text-justify">An employment website is a web site that deals specifically with employment or careers. Many employment websites are designed to allow employers to post job requirements for a position to be filled and are commonly known as job boards. Other employment sites offer employer reviews, career and job-search advice, and describe different job descriptions or employers. Through a job website a prospective employee can locate and fill out a job application.</p>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Company</h6>
+            <ul class="footer-links">
+              <li><a href="page-about.html">About us</a></li>
+              <li><a href="page-typography.html">How it works</a></li>
+              <li><a href="page-faq.html">Help center</a></li>
+              <li><a href="page-typography.html">Privacy policy</a></li>
+              <li><a href="page-contact.html">Contact us</a></li>
+            </ul>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Trendeing jobs</h6>
+            <ul class="footer-links">
+              <li><a href="job-list.html">Front-end developer</a></li>
+              <li><a href="job-list.html">Android developer</a></li>
+              <li><a href="job-list.html">iOS developer</a></li>
+              <li><a href="job-list.html">Full stack developer</a></li>
+              <li><a href="job-list.html">Project administrator</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <hr>
+      </div>
+      <!-- END Top section -->
+
+      <!-- Bottom section -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-sm-6 col-xs-12">
+            <p class="copyright-text">Copyrights &copy; 2016 All Rights Reserved by <a href="http://themeforest.net/user/shamsoft">ShaMSofT</a>.</p>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <ul class="social-icons">
+              <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
+              <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+              <li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END Bottom section -->
+
+    </footer>
+    <!-- END Site footer -->
+
+
+    <!-- Back to top button -->
+    <a id="scroll-up" href="#"><i class="ti-angle-up"></i></a>
+    <!-- END Back to top button -->
+
+
+    <!-- Contact modal -->
+    <div class="modal fade" id="modal-contact" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <h5 class="modal-title" id="myModalLabel">Send message</h5>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <label for="subject" class="control-label">Subject</label>
+                <input type="text" class="form-control" id="subject">
+              </div>
+              <div class="form-group">
+                <label for="message-text" class="control-label">Message</label>
+                <textarea class="form-control" id="message-text"></textarea>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-gray" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Send</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Scripts -->
+    <script src="assets/js/app.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+
+  </body>
+</html>
